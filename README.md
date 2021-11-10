@@ -1,8 +1,7 @@
 # Lua Learn
 
-A repo to learn lua.
+A Jupyter Notebook branch for learning lua.
 
 ## Tools
 
-- LuaRocks: https://luarocks.org/
-- luacheck: https://github.com/mpeterv/luacheck
+IPython Kernel: https://github.com/guysv/ilua
